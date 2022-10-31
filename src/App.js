@@ -6,7 +6,7 @@ function App() {
   const routers = router;
 
   return (
-    <div className='max-w-screen-xl mx-auto' data-theme="light">
+    <div className='max-w-screen-xl mx-auto'>
       <RouterProvider router={routers}>
 
       </RouterProvider>
