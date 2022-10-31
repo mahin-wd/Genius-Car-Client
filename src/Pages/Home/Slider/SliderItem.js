@@ -1,11 +1,12 @@
 import React from 'react';
+import './SliderItem.css'
 
 const SliderItem = ({slide}) => {
     const {img, id, prev, next} = slide;
     return (
         <div id={`slide${id}`} className="carousel-item relative w-full">
         <div className='slider-img'>
-          <img src={img} alt='' className="w-full" />
+          <img src={img} alt='' className="w-full rounded-xl" />
         </div>
         <div className="absolute flex justify-end transform -translate-y-1/2 left-5 right-5 bottom-5">
           <a href={`#slide${prev}`} className="btn btn-circle mr-5">❮</a> 
