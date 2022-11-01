@@ -1,0 +1,45 @@
+[
+  {
+    "_id": "01",
+    "name": "Car Engine Plugins",
+    "img": "https://i.ibb.co/GHFP97t/6.png",
+    "ratings": 4.8,
+    "price": "$35"
+  },
+  {
+    "_id": "02",
+    "name": "Car Battery",
+    "img": "https://i.ibb.co/SdQw3fP/4.png",
+    "ratings": 4.3,
+    "price": "$30"
+  },
+  {
+    "_id": "03",
+    "name": "Car Suspention",
+    "img": "https://i.ibb.co/Wvr2Gnh/2.png",
+    "ratings": 4.4,
+    "price": "$45"
+  },
+  {
+    "_id": "04",
+    "name": "Car Air Filter",
+    "img": "https://i.ibb.co/Z2RcNQy/3.png",
+    "ratings": 4.8,
+    "price": "$20"
+  },
+  {
+    "_id": "05",
+    "name": "Car Tires",
+    "img": "https://i.ibb.co/2nsGdT7/5.png",
+    "ratings": 4.7,
+    "price": "$33"
+  },
+  {
+    "_id": "06",
+    "name": "Best car breaks",
+    "img": "https://i.ibb.co/rfQds8B/1.png",
+    "ratings": 4.5,
+    "price": "$40"
+  }
+  
+]
